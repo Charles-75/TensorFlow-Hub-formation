@@ -1,6 +1,6 @@
 # TensorFlow-Hub-formation
 
-A TensorFlow-Hub formation for graduate students attending the NLP course at Sogang University.  
+A TensorFlow-Hub formation made by myself for graduate students attending the NLP course at Sogang University.  
 
 This presentation introduces TensorFlow really quickly then goes through TensorFlow-Hub's modules by helping people understands the following questions : what is this library used for ? Why could it be useful in my NLP project ? and finally how to use them ?
 
